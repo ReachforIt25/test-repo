@@ -1,5 +1,4 @@
-
-name: CI
+name: Simple flows
 on:
   push:
     branches: [ "main" ]
